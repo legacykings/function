@@ -1,0 +1,9 @@
+def average_of_five(num1, num2, num3, num4, num5):
+    print((num1+num2+num3+num4+num5)/5) 
+    
+average_of_five(10,20,30,40,50)
+
+def calculate_health(num1, num2, armor):
+    print(num1-num2*armor)
+    
+calculate_health(100,10,.5)
